@@ -1,8 +1,14 @@
 
 ## Contexto
 Este projeto analisa anúncios de vela de ignição para Chevrolet Corsa Classic 2014 no Mercado Livre.
-A motivação surgiu quando decidi trocar o bico e vela do meu carro que estava falhando, ao observar que alguns 
-anúncios apresentam maior volume de vendas mesmo com preços mais altos.
+Meu carro, um Chevrolet Corsa Classic 2014, começou a apresentar falhas e percebi que precisava trocar 
+as velas de ignição, ao observar que alguns anúncios apresentam maior volume de vendas mesmo com preços mais altos.
+Isso levantou uma pergunta interessante:
+
+por que consumidores compram mais caro se existem opções mais baratas?
+
+Como analista em transição para o marketing orientado a dados, decidi transformar essa situação em um projeto 
+analítico para investigar os fatores que influenciam o desempenho de anúncios na plataforma.
 
 ## Problema de negócio
 No marketplace, produtos similares têm desempenhos diferentes.
