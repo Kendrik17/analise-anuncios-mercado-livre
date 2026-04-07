@@ -1,1 +1,24 @@
 
+## Contexto
+Este projeto analisa anúncios de vela de ignição para Chevrolet Corsa Classic 2014 no Mercado Livre.
+A motivação surgiu quando decidi trocar o bico e vela do meu carro que estava falhando, ao observar que alguns 
+anúncios apresentam maior volume de vendas mesmo com preços mais altos.
+
+## Problema de negócio
+No marketplace, produtos similares têm desempenhos diferentes.
+O desafio é entender quais fatores de marketing (preço, frete, marca, reputação, apresentação do anúncio)
+influenciam a decisão de compra.
+
+## Pergunta de pesquisa
+Por que alguns anúncios de vela de ignição vendem mais no Mercado Livre mesmo sendo mais caros?
+
+## Objetivo
+Identificar padrões em anúncios de melhor desempenho e gerar insights acionáveis
+para otimização de anúncios em marketplace.
+
+## Hipóteses
+- Anúncios com maior reputação vendem mais.
+- Frete grátis aumenta o volume de vendas.
+- Marcas conhecidas sustentam preços mais altos.
+- Kits completos vendem mais que itens avulsos.
+
